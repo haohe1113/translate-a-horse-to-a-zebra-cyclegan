@@ -1,3 +1,4 @@
-This is the repo for our APM group project:    
- *Translate a Horse to a Zebra: CycleGAN*   
-You could find the article about this project [here](https://haohe1113.medium.com/translate-a-horse-to-a-zebra-cyclegan-6c3e12e40f53)
+# Translate a Horse to a Zebra: CycleGAN
+## A Tutorial to Zebraficate Donald Trump and Kim Jong-un
+![amazon](https://user-images.githubusercontent.com/44115595/72654116-a4500d80-3953-11ea-8759-b05636dce66a.jpg)
+
