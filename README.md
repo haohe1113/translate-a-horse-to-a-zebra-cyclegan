@@ -1,4 +1,7 @@
-# Translate a Horse to a Zebra: CycleGAN
-## A Tutorial to Zebraficate Donald Trump and Kim Jong-un
-![amazon](https://user-images.githubusercontent.com/44115595/72654116-a4500d80-3953-11ea-8759-b05636dce66a.jpg)
+# Translate a Horse to a Zebra: CycleGAN   
+## A Tutorial to Zebraficate Donald Trump and Kim Jong-un   
+![putin](https://user-images.githubusercontent.com/47257479/102256118-95117100-3ed0-11eb-930c-601b3dfebc45.jpeg)
 
+### Project Overview
+In this project, we will build and train a cycleGAN(Cycle-Consistent Generative Adversarial Networks) model to turn horses into zebras. We will first take a look at the structure of a cycleGAN as well as the four loss functions implemented to train it. We will also have a glimpse at the microarchitecture of each discriminator and generator deployed in a cycleGAN. Lastly, we will talk about how to train a cycleGAN with some very impressive translation outcomes attached at the very end. Before you start reading, it would be better to have some basic understanding in convolutional neural networks and GAN. This article is a summary of the Advanced Predictive Modeling course project accomplished by Josh Artmann, Yiming Jin, Kevin Cheng and Hao He at UT Austin.
+[See full article here](https://towardsdatascience.com/translate-a-horse-to-a-zebra-cyclegan-6c3e12e40f53)
