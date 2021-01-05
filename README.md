@@ -1,5 +1,5 @@
 # Translate a Horse to a Zebra: CycleGAN  
-## *A Tutorial to Zebraficate Donald Trump and Kim Jong-un*     
+## A Tutorial to Zebraficate Donald Trump and Kim Jong-un     
 ![putin](https://user-images.githubusercontent.com/47257479/102256118-95117100-3ed0-11eb-930c-601b3dfebc45.jpeg)
 
 ### Summary
